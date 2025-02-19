@@ -1,0 +1,1 @@
+# Atividade-de-Listas-em-Python---Gabriel-Isac---3-D.S
